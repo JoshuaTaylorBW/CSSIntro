@@ -1,7 +1,9 @@
 html{
   font-family: arial;
 }
+#Page-Title{
 
+}
 .Status-Update-1{
   position: absolute;
   top: 8%;
@@ -22,4 +24,23 @@ html{
   left: 18%;
   width: 20%;
   top: -65%;
+}
+#Like-Or-Comment{
+  position: relative;
+  top: -44%;
+  left: 18%;
+}
+.Status-Update-2{
+  position: absolute;
+  top: 35%;
+  width: 56%;
+  border: 1px solid black;
+  height: 20%;
+}
+.Status-Update-3{
+  position: absolute;
+  top: 62%;
+  width: 56%;
+  border: 1px solid black;
+  height: 20%;
 }
