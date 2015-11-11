@@ -1,0 +1,58 @@
+html{
+  font-family: arial;
+}
+#Website-Title{
+position: absolute;
+float:left;
+text-align: left;
+border: 2px solid white;
+font-size: 14pt;
+width: 10%;
+}
+
+#Table-Of-Contents{
+  position: absolute;
+  display: inline;
+  width: 10%;
+  height: 80%;
+  border: 2px solid black;
+  top: 8%;
+}
+
+#Table-Of-Contents li{
+  font-size: 14pt;
+  padding-bottom: 20px;
+  list-style-type: none;
+  text-decoration: none;
+  color: black;
+}
+
+
+#Table-Of-Contents li{
+  font-size: 16pt;
+  padding-bottom: 30px;
+  list-style-type: none;
+
+}
+#Table-Of-Contents a{
+  text-decoration: none;
+  color: black;
+}
+#Table-Of-Contents a:visited{
+  text-decoration: none;
+  color: black;
+}
+
+#Table-Of-Contents ul{
+  position: relative;
+  width: 100%;
+  right: 15%;
+}
+
+#Paragraph-Title{
+
+}
+
+#Product-Pic{
+
+}
