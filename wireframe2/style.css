@@ -1,0 +1,25 @@
+html{
+  font-family: arial;
+}
+
+.Status-Update-1{
+  position: absolute;
+  top: 8%;
+  width: 56%;
+  border: 1px solid black;
+  height: 20%;
+}
+.Status-Picture{
+  position: relative;
+  top: 10%;
+  left: 1.8%;
+  height: 60%;
+  width: 11%;
+  border: 1px solid black;
+}
+#Status{
+  position: relative;
+  left: 18%;
+  width: 20%;
+  top: -65%;
+}
