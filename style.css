@@ -10,3 +10,9 @@ h1{
 #doctor_salmonella_ella{
   border: solid 3px blue;
 }
+.bearbox{
+  float: left;
+}
+p{
+  text-align: center;
+}
